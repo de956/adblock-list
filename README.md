@@ -1,1 +1,1 @@
-### Blocklist ads, telemetry for [Pihole](https://pi-hole.net), [OpenWRT](https://openwrt.org/docs/guide-user/services/ad-blocking), [personalDNSfilter for android](https://f-droid.org/en/packages/dnsfilter.android) and etc.
+**Blocklist ads, telemetry for [Pihole](https://pi-hole.net), [OpenWRT](https://openwrt.org/docs/guide-user/services/ad-blocking), [personalDNSfilter for android](https://f-droid.org/en/packages/dnsfilter.android) and etc.**
