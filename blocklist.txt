@@ -39,7 +39,6 @@ na61-na62.wagbridge.alibaba.alibaba.com.gds.alibabadns.com
 e2338.a.akamaiedge.net
 na610-na620.acs.m.taobao.com.gds.alibabadns.com
 acs.m.taobao.com
-https://ynuf.aliapp.org/saveWb.json?
 wvcfg.alicdn.com.danuoyi.tbcache.com
 wvcfg.alicdn.com
 login.aliexpress.com
