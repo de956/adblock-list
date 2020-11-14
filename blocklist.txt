@@ -118,5 +118,14 @@ shavar.services.mozilla.com
 forbidden.yota.ru
 l-0005.l-msedge.net
 cs9.wac.phicdn.net
+status.thawte.comru_proxy.themarfa.live
+activation-v2.geo.kaspersky.com
+activation-v2.kaspersky.com
+dnl-01.geo.kaspersky.com
+dns.google.com
+yandex.st
+mozilla.org
 status.thawte.com
+static.yota.ruru_proxy.themarfa.live
+ru_proxy.themarfa.live
 static.yota.ru
