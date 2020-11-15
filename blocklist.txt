@@ -126,6 +126,13 @@ dns.google.com
 yandex.st
 mozilla.org
 status.thawte.com
-static.yota.ruru_proxy.themarfa.live
-ru_proxy.themarfa.live
+mobileimg.useinsider.com
+mobile.useinsider.com
+dnl-15.geo.kaspersky.com
+gibproxy.hh.ru
+fonts.gstatic.com
+www.gstatic.com
+ssl.gstatic.com
+10.167.120.170;10.0.2.15
+https://ynuf.aliapp.org/saveWb.json?
 static.yota.ru
