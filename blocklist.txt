@@ -88,7 +88,6 @@ gibproxy.hh.ru
 fonts.gstatic.com
 www.gstatic.com
 ssl.gstatic.com
-ru_proxy.themarfa.live
 activation-v2.geo.kaspersky.com
 activation-v2.kaspersky.com
 dnl-01.geo.kaspersky.com
@@ -170,7 +169,6 @@ cdn.syndication.twimg.com
 xtrapath3.xboxprod.izatcloud.net
 xtrapath3.izatcloud.net
 a1089.dscd.akamai.net
-mozilla.org
 detectportal.firefox.com
 location.services.mozilla.com
 icecat.settings.services.mozilla.com
