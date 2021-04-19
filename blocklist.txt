@@ -1,4 +1,3 @@
-connectivitycheck.android.com
 static.street-beat.ru
 content-signature-2.cdn.mozilla.net
 10.199.242.79;10.0.2.15
@@ -14,7 +13,6 @@ static.licdn.com
 regioninfo-pa.googleapis.com
 st.s5o.ru
 static0.megafon.ru
-assets.gitlab-static.net
 store.hispace.hicloud.com
 mobileproxy.passport.yandex.net
 oauth.YANDEX.RU
@@ -39,7 +37,6 @@ idge.staticworld.net
 e2885.e9.akamaiedge.net
 a1887.dscq.akamai.net
 e5308.x.akamaiedge.net
-mozilla.cloudflare-dns.com
 prod.globalsign.map.fastly.net
 stat.gismeteo.net
 yastat.net
@@ -107,7 +104,6 @@ dnl-04.geo.kaspersky.com
 dnl-00.geo.kaspersky.com
 spkk-static.sberbank.ru
 dynamicua.cdn.mozilla.net
-bit.ly
 clickstream.online.sberbank.ru
 cbro.sberbank.ru
 mobile-node4.online.sberbank.ru
@@ -129,7 +125,6 @@ exploit.media
 mobileimg.useinsider.com
 mobile.useinsider.com
 dnl-15.geo.kaspersky.com
-msuprotest.tk
 gibproxy.hh.ru
 fonts.gstatic.com
 www.gstatic.com
@@ -213,7 +208,6 @@ cdn.syndication.twimg.com
 xtrapath3.xboxprod.izatcloud.net
 xtrapath3.izatcloud.net
 a1089.dscd.akamai.net
-mozilla.org
 detectportal.firefox.com
 location.services.mozilla.com
 icecat.settings.services.mozilla.com
