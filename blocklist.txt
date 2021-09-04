@@ -337,3 +337,5 @@ img1.wbstatic.net
 10.199.230.43;10.0.2.15
 ozon-alternate.app.link
 ozon-alternate.test-app.link
+rutarget.ru
+creative.rutarget.ru
