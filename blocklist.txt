@@ -5,6 +5,7 @@ a-fds.youborafds01.com
 a1089.dscd.akamai.net
 a1887.dscq.akamai.net
 a1944.dscr.akamai.net
+acstat.com
 activation-v2.geo.kaspersky.com
 activation-v2.kaspersky.com
 adbrn.com
@@ -59,6 +60,7 @@ co.info.sportmaster.ru
 common-mindbox-ru.trafficmanager.net
 connect.facebook.net
 content-signature-2.cdn.mozilla.net
+core-renderer-staticapi.maps.yandex.net
 crashlyticsreports-pa.googleapis.com
 creative.rutarget.ru
 crwdcntrl.net
@@ -88,7 +90,6 @@ dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
-dns.google.com
 doubleclick.net
 ds.adfox.ru
 ds.kaspersky.com
@@ -111,6 +112,7 @@ firebase-settings.crashlytics.com
 firebaseinstallations.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
+firefox.settings.services.mozilla.com
 flstatic-a.akamaihd.net
 fonts.googleapis.com
 fonts.gstatic.com
@@ -123,7 +125,6 @@ geo1.online.sberbank.ru
 geointernal.mob.maps.yandex.net
 gibproxy.hh.ru
 gitlab-static.net
-go.yandex
 google-analytics.com
 googlesyndication.com
 graph.facebook.com
@@ -171,6 +172,7 @@ ksn-file.geoksn.kaspersky.com
 ksn-info-geo.kaspersky-labs.com
 ksn-info.geoksn.kaspersky.com
 l-0005.l-msedge.net
+l-stat.livejournal.net
 launches.appsflyer.com
 lh4.googleusercontent.com
 liadm.com
@@ -190,10 +192,8 @@ mobile.yandexadexchange.net
 mobileimg.useinsider.com
 mobileproxy.passport.yandex.net
 mobiletelemetry.ebay.com
-mozilla.cloudflare-dns.com
 msg-global.m.taobao.com
 msg-global.m.taobao.com.gds.alibabadns.com
-mtranslate.s3.yandex.net
 na61-na62.wagbridge.alibaba.alibaba.com.gds.alibabadns.com
 na61-na62.wagbridge.alibaba.taobao.com.gds.alibabadns.com
 na610-na620.acs.m.taobao.com.gds.alibabadns.com
@@ -211,9 +211,7 @@ pbs.twimg.com
 pfm-stat.online.sberbank.ru
 photos-ugc.l.googleusercontent.com
 pippio.com
-plus.yandex.ru
 pop-tln1-alpha.www.linkedin.com
-predictor.yandex.net
 prod.globalsign.map.fastly.net
 profile.api.2gis.ru
 r.my.com
@@ -222,6 +220,7 @@ realty.api.2gis.ru
 regioninfo-pa.googleapis.com
 report.appmetrica.yandex.net
 rlcdn.com
+roistat.com
 rosenberg.appmetrica.yandex.net
 rt-static-cdn.rt.ru
 rt-static.rt.ru
@@ -232,9 +231,8 @@ s3.eu-central-1.amazonaws.com
 s3.yandex.net
 sTAtS-Repl.myangular.life
 safebrowsing.googleapis.com
-sample4711.justasample.com
-sample4712.justasample.com
 secgw-na61-na62.wagbridge.alibaba.alibabacorp.com.gds.alibabadns.com
+secure.statcounter.com
 secureads.g.doubleclick.net
 serverru.eyezon.online
 settings.crashlytics.com
@@ -263,10 +261,13 @@ stat.online.sberbank.ru
 stat.sputnik.ru
 stat3.1internet.tv
 statad.ru
+statcounter.com
 static-cdn0.vigbo.tech
 static-cdn4.vigbo.tech
 static-hbb.1tv.ru
+static-maps.yandex.ru
 static-media-prod-cdn.itsre-sumo.mozilla.net
+static-mon.yandex.net
 static-pano.maps.yandex.ru
 static-sesure.cdn.megafon.tv
 static.1tv.ru
@@ -303,6 +304,7 @@ static.pochta.ru
 static.popmechanic.ru
 static.qiwi.com
 static.rosbalt.ru
+static.seo-auditor.com.ru
 static.server.retentioneering.com
 static.shodan.io
 static.smi2.net
@@ -354,10 +356,8 @@ winhelp2002.mvps.org
 wus2-breeziest-in.cloudapp.net
 www.avito.st
 www.google-analytics.com
-www.google.ru
 www.gravatar.com
 www.gstatic.com
-www.olimp.bet
 www2.deepl.com
 www3.l.google.com
 www4.l.google.com
